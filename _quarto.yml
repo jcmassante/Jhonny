@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  favicon: logo.png
+  title: "Jhonny"
+  navbar:
+    title: false
+    logo:  logo.png
+    right:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: publications.qmd
+        text: Publications
+      - href: readings.qmd
+        text: Readings
+      - href: CV_JCMassante.pdf
+        text: CV
+      - blog.qmd
+      
+  page-footer:
+    center: "©2023 Jhonny Capichoni Massante | Powered by [Quarto](https://quarto.org)"
+    
+    
+format:
+  html:
+    theme: green_theme.scss
+    css: styles.css
+    toc: true
+    toc-depth: 6
+    page-layout: full
+
+editor: visual

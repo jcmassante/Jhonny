@@ -1,0 +1,38 @@
+---
+title: "Peer-reviewed publications"
+toc: true
+---
+
+------------------------------------------------------------------------
+
+### 2023
+
+**JC Massante**, M Gastauer (2023) [Evolutionary history of marginal habitats regulates the diversity of tree communities in the Atlantic Forest](https://academic.oup.com/aob/article/131/2/261/6682811), *Annals of Botany*, 131 (2), 261-274.
+
+CM Galván-Cisneros, M Gastauer, **JC Massante**, PM Villa et al. (2023) [Simultaneous competition and environmental filtering in woody communities of the understory of Eucalyptus plantations in the Cerrado](https://www.sciencedirect.com/science/article/pii/S143383192300015X), *Perspectives in Plant Ecology, Evolution and Systematics*, 59, 125731.
+
+### 2022
+
+M Gastauer, **JC Massante**, SJ Ramos, RSS da Silva, D Boanares et al. (2022) [Revegetation on tropical steep slopes after mining and infrastructure projects: Challenges and solutions](https://www.mdpi.com/2071-1050/14/24/17003), *Sustainability*, 14 (24), 17003
+
+### 2021
+
+GM Mendes, FAO Silveira, C Oliveira, W Dáttilo, R Guevara et al. (including **Massante, J.C.**, 38/48) (2021) [How much leaf area do insects eat? A data set of insect herbivory sampled globally with a standardized protocol](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.3301?campaign=wolearlyview), *Ecology*, 102 (4), e03301
+
+**JC Massante**, M Köbel, P Pinho, P Gerhold, C Branquinho, A Nunes (2021) [Phylogenetic structure of understorey annual and perennial plant species reveals opposing responses to aridity in a Mediterranean biodiversity hotspot](https://www.sciencedirect.com/science/article/pii/S0048969720375495), Science of The Total Environment, 761, 144018
+
+### 2020
+
+**JC Massante**, P Gerhold (2020) [Environment and evolutionary history depict phylogenetic alpha and beta diversity in the Atlantic coastal white‐sand woodlands](https://onlinelibrary.wiley.com/doi/full/10.1111/jvs.12900), *Journal of Vegetation Science*, 31 (4), 634-645
+
+A Blaus, T Reitalu, P Gerhold, I Hiiesalu, **JC Massante**, S Veski (2020) [Modern pollen--plant diversity relationships inform Palaeoecological reconstructions of functional and phylogenetic diversity in calcareous fens](https://www.frontiersin.org/articles/10.3389/fevo.2020.00207/full), *Frontiers in Ecology and Evolution*, 8, 207
+
+### 2019
+
+**JC Massante**, L Götzenberger, K Takkis, T Hallikma, A Kaasik, L Laanisto et al. (2019) [Contrasting latitudinal patterns in phylogenetic diversity between woody and herbaceous communities](https://www.nature.com/articles/s41598-019-42827-1), *Scientific Reports*, 9 (1), 6443
+
+JJ Brown, S Mennicken, **JC Massante**, S Dijoux, A Telea, AM Benedek et al. (2019) [A no](https://scholar.google.com/scholar?oi=bibs&cluster=12666257638806614510&btnI=1&hl=en)[v](https://onlinelibrary.wiley.com/doi/full/10.1111/jvs.12757)[el method to predict dark diversity using unconstrained ordination analysis](https://scholar.google.com/scholar?oi=bibs&cluster=12666257638806614510&btnI=1&hl=en), *Journal of Vegetation Science*, 30 (4), 610-619
+
+### 2015
+
+**JC Massante** (2015) [Mining disaster: restore habitats now](https://www.nature.com/articles/528039c), *Nature*, 528 (7580), 39-39

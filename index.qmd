@@ -1,0 +1,26 @@
+---
+title: "Jhonny Capichoni Massante"
+image: profile.jpg
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 23em
+  
+  links:
+    - href: https://orcid.org/0000-0003-2764-4976
+      text: "{{< ai orcid >}}"
+    - href: https://scholar.google.com/citations?user=y7ReQJgAAAAJ&hl=en
+      text: "{{< ai google-scholar >}}"
+    - href: https://www.researchgate.net/profile/Jhonny-Massante
+      text: "{{< ai researchgate >}}"
+    - icon: github
+      href: https://github.com/jcmassante
+    - icon: linkedin
+      href: https://www.linkedin.com/in/jhonny-capichoni-massante/
+    - icon: twitter
+      href: https://twitter.com/JCMassante
+    - icon: envelope
+      href: mailto:jhonny.massante@ut.ee
+---
+
+Hi, my name is Jhonny and I am a post-doctoral research fellow in macroecology and the principal investigator of the project: " Macroecology of rare species: global phylogenetic and functional patterns". I got funding from the Estonian Research Council <https://etag.ee/en/> to develop the project at University of São Paulo, Brazil in partnership with University of Tartu, Estonia.

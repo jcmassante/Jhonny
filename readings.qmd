@@ -1,0 +1,54 @@
+---
+title: "Current readings"
+
+---
+
+------------------------------------------------------------------------
+
+##### "*A reader lives a thousand lives before he dies . . . The man who never reads lives only one* (George R. R. Martin)"
+
+<br>
+
+If I were asked: What do you most do? I would answer: **I read!**
+
+:::{.column-margin}
+```{r}
+#| echo: false
+#| fig-alt: "A classroom full of students face forward towards the instructor, who stands at a podium at the front of the room. Students have their laptops open on their desks. Three large TV screens are illuminated at the front of the classroom, displaying workshop materials."
+knitr::include_graphics("rasengan.png")
+```
+
+::: {.extra-small-text .dark-gray-text .topbr}
+Teaching MEDS students how to build their own personal websites using Quarto! This was especially fun for me, since Quarto was still such a new tool when I first gave this workshop -- it meant a lot of discovery and learning on-the-fly alongside our students.
+:::
+
+:::
+
+I read pretty much everything that crosses me. From medicines' information to soap ingredients; from random poorly designed outdoors to every object's manual of instructions. The craziest part? I very often catch myself reading words backwards and like it. But of course, what I like the most is reading books, especially with dystopia themes. Recently, I have got an interest on books about mythology, and I am reading one about the hero's journey. I also read books that are called *self-help* books and books about creativity and writing. Here are the four books I am currently reading (a little everyday):
+
+::: panel-tabset
+## The hero with a thousand faces
+
+```{r echo = FALSE}
+knitr::include_graphics("hero-of-thousand-faces.png")
+
+```
+
+## Book 2
+
+[other book](hero-of-thousand-faces.png)
+
+## Book 3
+
+[another book](hero-of-thousand-faces.png)
+
+## Book 4
+
+[another book](hero-of-thousand-faces.png)
+:::
+
+::: {#Books}
+[![The Hero with a Thousand Faces](hero-of-thousand-faces.png){fig-alt="The Hero with a Thousand Faces" fig-align="left" width="200"}](https://www.amazon.com.br/Hero-Thousand-Faces-Joseph-Campbell/dp/1577315936/ref=sr_1_1?keywords=the+hero+of+a+thousand+faces&qid=1685768046&sprefix=the+hero+of+%2Caps%2C240&sr=8-1&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9)
+:::
+
+
