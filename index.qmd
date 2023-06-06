@@ -24,3 +24,58 @@ about:
 ---
 
 Hi, my name is Jhonny and I am a post-doctoral research fellow in macroecology and the principal investigator of the project: " Macroecology of rare species: global phylogenetic and functional patterns". I got funding from the Estonian Research Council <https://etag.ee/en/> to develop the project at University of São Paulo, Brazil in partnership with University of Tartu, Estonia.
+
+```{r echo = FALSE}
+
+
+```
+
+|                |             |
+|----------------|-------------|
+| snippet column |             |
+|                |             |
+|                |             |
+
+|                 |             |
+|-----------------|-------------|
+| 	:::: {.columns} |             |
+|                 |             |
+|                 |             |
+
+|                           |             |
+|---------------------------|-------------|
+| 	::: {.column width="50%"} |             |
+|                           |             |
+|                           |             |
+
+|             |             |
+|-------------|-------------|
+| 	Left column |             |
+|             |             |
+|             |             |
+
+|           |             |
+|-----------|-------------|
+| 	:::       |             |
+|           |             |
+|           |             |
+
+|                           |             |
+|---------------------------|-------------|
+| 	::: {.column width="50%"} |             |
+|                           |             |
+|                           |             |
+
+|              |             |
+|--------------|-------------|
+| 	Right column |             |
+|              |             |
+|              |             |
+
+|           |             |
+|-----------|-------------|
+| 	:::       |             |
+|           |             |
+|           |             |
+
+	::::
