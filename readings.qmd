@@ -9,25 +9,26 @@ toc: false
 
 <br>
 
-If I were asked: What do you most do? I would answer: **I read!** I read pretty much everything that crosses me. From medicines' information to soap ingredients; from random poorly designed outdoors to every object's manual of instructions. The craziest part? I very often catch myself reading words backwards and like it. But of course, what I like the most is reading books, especially with dystopia themes. Recently, I have got an interest on books about mythology, and I am reading one about the hero's journey. I also read books that are called *self-help* books and books about creativity and writing. Here are the four books I am currently reading (a little everyday):
+If I were asked: What do you most do? I would answer: **I read!** I read pretty much everything that crosses me. From medicines' information to soap ingredients, from randomly poorly designed outdoors to every object's manual of instructions. The craziest part? I very often catch myself reading words backwards and like it. But of course, what I like the most is reading books, especially with dystopia themes. Recently, I have been interested in mythology books, and I am reading one about the hero's journey. I also read books that are called *self-help* books and books about creativity and writing. Here are the four books I am currently reading (a little every day):
 
-The first two books are not related. The first book [The hero with a thousand faces](https://www.amazon.com/Thousand-Faces-Collected-Joseph-Campbell/dp/1577315936/ref=sr_1_1?crid=3PPV6VP6LT37E&keywords=the+hero+with+a+thousand+faces&qid=1686068024&s=books&sprefix=the+hero%2Cstripbooks-intl-ship%2C318&sr=1-1) is about the hero's journey, a concept present in pretty much every book we read and film we watch. In this book the author *Joseph Campbell* presents a profound description of the hero's journey. The human journey! The second book: [Atomic habits: An easy & proven way to build good habits & break bad ones](https://www.amazon.com.br/Atomic-Habits-Proven-Build-Break/dp/0735211299) is a best-seller about building new good habits and abandon bd ones. I've read another great book about habits, [The power of habit: Why we do what we do in life and business](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X), which describes the origin and cicle of habits with plenty of good examples. Atomic habits, however, is more a practical guide in my opinion and has been a revealing reading. Here are they:  
+The first two books are not related. The first book: [The hero with a thousand faces](https://www.amazon.com/Thousand-Faces-Collected-Joseph-Campbell/dp/1577315936/ref=sr_1_1?crid=3PPV6VP6LT37E&keywords=the+hero+with+a+thousand+faces&qid=1686068024&s=books&sprefix=the+hero%2Cstripbooks-intl-ship%2C318&sr=1-1), is about the hero's journey, a concept present in pretty much every book we read and film we watch. In this book, the author *Joseph Campbell* presents a profound description of the hero's journey. The human journey! The second book: [Atomic habits: An easy & proven way to build good habits & break bad ones](https://www.amazon.com.br/Atomic-Habits-Proven-Build-Break/dp/0735211299) is a best-seller about building new good habits and abandoning bad ones. I've read another great book about habits, [The power of habit: Why we do what we do in life and business](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X), which describes the origin and cycle of habits with plenty of good examples. Atomic habits, however, is more of a practical guide and has been a revealing reading. Here are they:
 
-:::{.column-margin .right}
+::: {.column-margin .right}
 ```{r echo = FALSE}
 knitr::include_graphics("rasengan.png")
 ```
 
-::: {}
-I also like very much reading mangas and watching animes. My favourite one is Naruto and this image represents it :). This is Rasengan, Naruto's signature jutsu!
-:::
+<div>
 
+I also like reading mangas and watching anime. My favourite one is Naruto, and this image represents it :). This is Rasengan, Naruto's signature jutsu!
+
+</div>
 :::
 
 ::: panel-tabset
 ## The hero with a thousand faces
-::: {.right}
-"This book show the hero's journey and how it has been applied in stories for centuries."
+
+::: right
 :::
 
 ```{r echo = FALSE}
@@ -43,27 +44,21 @@ knitr::include_graphics("hero-of-thousand-faces.png")
 }
 ```
 
-::: {.left}
-
-"This book helps creating new good habits and abandoning old bad ones."
-
+::: left
 :::
 
-```{r echo = FALSE, fig.align = "right"}
+```{r echo = FALSE, fig.align = "center"}
 
 knitr::include_graphics("atomic.png")
 
 ```
-
 :::
 
 <br>
 
-The next two books address academic writing. How to improve it. After a few years publishing scientific papers, dealing with reviewers comments, especially those like "there is high quality information in your discussion but it is buried among many other non-relevant information". I find these comments extremely important and decided to seek for new ways of improving my academic writing. To start with, I picked two books: one about using storytelling and another about style. Here they are:
-
+TThe next two books address academic writing. How to improve it. After a few years of publishing scientific papers, dealing with reviewers' comments, especially those like "there is high-quality information in your discussion, but it is buried among much other non-relevant information". I find these comments extremely important and decided to seek new ways of improving my academic writing. To start with, I picked two books: one about using storytelling and another about style. Here they are:
 
 ::: panel-tabset
-
 ## How to use storytelling in your academic writing
 
 ```{css, echo = FALSE}
@@ -72,10 +67,7 @@ The next two books address academic writing. How to improve it. After a few year
 }
 ```
 
-::: {.left}
-
-"This book helps using storytelling and other techniques in academic writing."
-
+::: left
 :::
 
 ```{r echo = FALSE, fig.align = "left"}
@@ -83,7 +75,6 @@ The next two books address academic writing. How to improve it. After a few year
 knitr::include_graphics("storytelling.png")
 
 ```
-
 
 ## The elements of academic style
 
@@ -93,12 +84,9 @@ knitr::include_graphics("storytelling.png")
 }
 ```
 
-::: {.right}
+::: right
 
-"This book is a guide to the elements of academic style. It offers techniques!"
-
-***
-
+------------------------------------------------------------------------
 :::
 
 ```{r echo = FALSE, fig.align = "center"}
@@ -106,18 +94,8 @@ knitr::include_graphics("storytelling.png")
 knitr::include_graphics("elements.png")
 
 ```
-
 :::
 
-
-
-
-
-
-
-
-
-:::{.callout-note}
-I am not selling anything here. It is just a list of books I am reading now! 
-
+::: callout-important
+I am not selling anything here. It is just a list of books I am reading now!
 :::

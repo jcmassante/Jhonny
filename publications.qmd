@@ -5,15 +5,19 @@ toc: true
 
 ------------------------------------------------------------------------
 
+Here, you can find a list of scientific papers I have published as the principal author or a collaborator. Other scientific publications, such as book chapters or outreach publications, can be found on my CV.
+
 ### 2023
 
-11. **JC Massante**, M Gastauer (2023) [Evolutionary history of marginal habitats regulates the diversity of tree communities in the Atlantic Forest](https://academic.oup.com/aob/article/131/2/261/6682811), *Annals of Botany*, 131 (2), 261-274.
+-   **JC Massante**, A Neri, PM Villa, I Fialho, V Pontara, M Bueno, M Gastauer. (2023) Looking similar but all different: phylogenetic signature of Brazilian rocky outcrops and the influence of temperature variability on their phylogenetic structure. *Journal of Ecology*, *(In Press)*.
 
-10. CM Galván-Cisneros, M Gastauer, **JC Massante**, PM Villa et al. (2023) [Simultaneous competition and environmental filtering in woody communities of the understory of Eucalyptus plantations in the Cerrado](https://www.sciencedirect.com/science/article/pii/S143383192300015X), *Perspectives in Plant Ecology, Evolution and Systematics*, 59, 125731.
+-   **JC Massante**, M Gastauer (2023) [Evolutionary history of marginal habitats regulates the diversity of tree communities in the Atlantic Forest](https://academic.oup.com/aob/article/131/2/261/6682811), *Annals of Botany*, 131 (2), 261-274.
+
+-   CM Galván-Cisneros, M Gastauer, **JC Massante**, PM Villa et al. (2023) [Simultaneous competition and environmental filtering in woody communities of the understory of Eucalyptus plantations in the Cerrado](https://www.sciencedirect.com/science/article/pii/S143383192300015X), *Perspectives in Plant Ecology, Evolution and Systematics*, 59, 125731.
 
 ### 2022
 
-9.  M Gastauer, **JC Massante**, SJ Ramos, RSS da Silva, D Boanares et al. (2022) [Revegetation on tropical steep slopes after mining and infrastructure projects: Challenges and solutions](https://www.mdpi.com/2071-1050/14/24/17003), *Sustainability*, 14 (24), 17003
+-   M Gastauer, **JC Massante**, SJ Ramos, RSS da Silva, D Boanares et al. (2022) [Revegetation on tropical steep slopes after mining and infrastructure projects: Challenges and solutions](https://www.mdpi.com/2071-1050/14/24/17003), *Sustainability*, 14 (24), 17003
 
 ### 2021
 
@@ -35,4 +39,4 @@ toc: true
 
 ### 2015
 
--   **JC Massante** (2015) [Mining disaster: restore habitats now](https://www.nature.com/articles/528039c), *Nature*, 528 (7580), 39-39
+-   **JC Massante** (2015) [Mining disaster: restore habitats now](https://www.nature.com/articles/528039c), *Nature*, 528 (7580), 39-39 (not peer-reviewed but relevant).

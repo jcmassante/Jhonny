@@ -3,11 +3,11 @@ project:
   output-dir: docs
 
 website:
-  favicon: logo.png
+  favicon: logo2.png
   title: "Jhonny"
   navbar:
     title: false
-    logo:  logo.png
+    logo:  logo2.png
     right:
       - href: index.qmd
         text: Home
@@ -18,7 +18,7 @@ website:
         text: Readings
       - href: CV_JCMassante.pdf
         text: CV
-      - blog.qmd
+      
       
   page-footer:
     center: "©2023 Jhonny Capichoni Massante | Powered by [Quarto](https://quarto.org)"

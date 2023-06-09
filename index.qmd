@@ -1,6 +1,6 @@
 ---
 title: "Jhonny Capichoni Massante"
-image: profile.jpg
+image: profile2.jpg
 about: 
   template: trestles
   image-shape: round
@@ -23,59 +23,102 @@ about:
       href: mailto:jhonny.massante@ut.ee
 ---
 
-Hi, my name is Jhonny and I am a post-doctoral research fellow in macroecology and the principal investigator of the project: " Macroecology of rare species: global phylogenetic and functional patterns". I got funding from the Estonian Research Council <https://etag.ee/en/> to develop the project at University of São Paulo, Brazil in partnership with University of Tartu, Estonia.
+#### Hi, I'm Jhonny. I am Aurora's dad, Katy's husband, and an ecologist currently working as a post-doctoral researcher in macroecology. 
 
-```{r echo = FALSE}
+I am a curious person. We are all born curious. I realised my innate sense of **Curiosity** serves as an asset throughout my professional journey. It has guided me through different career paths and seemingly unrelated projects.
 
+I've discovered that **Biodiversity** is the crucial link connecting my **Curiosity** to my academic interests. This connection becomes evident in the word cloud below. It showcases my academic contributions and the significance of **Biodiversity** in my research endeavours.
+
+When I am not at work, I like to stay with my family, travelling, hiking, and reading. Have a look at the books I am reading right now at *Readings*. Ah, I love sunsets!
+
+Since July 2022, I have been dedicated to developing a project centred around rare species and their contribution to ecological communities. For more details, have a look at *About*.
+
+
+##### My academic interests in a word cloud 
+
+```{r, echo = FALSE, warning = FALSE, message = FALSE}
+
+# Install
+#install.packages("tm")  # for text mining
+#install.packages("SnowballC") # for text stemming
+#install.packages("wordcloud") # word-cloud generator 
+#install.packages("RColorBrewer") # color palettes
+
+# Load
+library("tm")
+library("SnowballC")
+library("wordcloud")
+library("RColorBrewer")
+library("ggplot2")
+library("ggwordcloud")
+library("grid")
+library("elementalist")
+library("ggsci")
+
+# Read the text file from internet
+filePath <- "C:/Users/Jhonny/Nextcloud/USP/Jhonny/cloud.txt"
+text <- readLines(filePath)
+
+# http://www.sthda.com/english/wiki/text-mining-and-word-cloud-fundamentals-in-r-5-simple-steps-you-should-know
+# Load the data as a corpus
+docs <- Corpus(VectorSource(text))
+
+# Replace special characters with space
+toSpace <- content_transformer(function (x , pattern ) gsub(pattern, " ", x))
+docs <- tm_map(docs, toSpace, "/")
+docs <- tm_map(docs, toSpace, "@")
+docs <- tm_map(docs, toSpace, "%")
+docs <- tm_map(docs, toSpace, "º")
+
+# Convert the text to lower case
+docs <- tm_map(docs, content_transformer(tolower))
+
+# Remove numbers
+docs <- tm_map(docs, removeNumbers)
+
+# Remove english common stopwords
+docs <- tm_map(docs, removeWords, stopwords("english"))
+
+# Remove your own stop word
+# specify your stopwords as a character vector
+docs <- tm_map(docs, removeWords, c("used", "last", "current", "found", "across", "along", "suggests", "showed", "many", "far", "circular", "well", "less", "eivs", "uno", "better")) 
+
+# Remove punctuations
+docs <- tm_map(docs, removePunctuation)
+
+# Eliminate extra white spaces
+docs <- tm_map(docs, stripWhitespace)
+
+# Build a term-document matrix
+dtm <- TermDocumentMatrix(docs)
+m <- as.matrix(dtm)
+v <- sort(rowSums(m),decreasing=TRUE)
+d <- data.frame(word = names(v),freq=v)
+
+# Generate the Word cloud
+#set.seed(123)
+
+#from https://semba-blog.netlify.app/11/05/2019/wordclouds-plotting-with-ggwordcloud-package-in-r/
+p <- ggplot(data = d, 
+       aes(label = word, size = freq, col = as.character(freq))) + 
+  geom_text_wordcloud(rm_outside = TRUE, max_steps = 1,
+                      grid_size = 2, eccentricity = .9)+
+  scale_size_area(max_size = 12)+
+  #scale_color_d3()+
+  #scale_color_brewer(palette = "Paired", direction = -1)+
+  scale_color_manual(values = c("#174029", "#c79625", "#8c0303", "#5a6868", "#d55e2d", "#73303c", "#024959", "#3d7345", "#1f2b85", "#574301", "#34273b", "#bf5b04", "#999348", "#044013", "#5e0202", "#519188", "#f2ab26", "#0f320f", "#69724c"))+
+  theme_void()+
+  theme(
+    panel.background = element_rect(fill= "#efeadd", color = "#efeadd"),
+    #strip.background = element_rect(radius = unit(8, "pt")),
+    plot.background  = element_rect(fill = "#efeadd", color = "#efeadd")
+  )
+
+p
 
 ```
 
-|                |             |
-|----------------|-------------|
-| snippet column |             |
-|                |             |
-|                |             |
+<p style= "font-size: small" > Word cloud made with the abstracts of scientific papers I have published, either as a first author or as a collaborator. </p>
 
-|                 |             |
-|-----------------|-------------|
-| 	:::: {.columns} |             |
-|                 |             |
-|                 |             |
 
-|                           |             |
-|---------------------------|-------------|
-| 	::: {.column width="50%"} |             |
-|                           |             |
-|                           |             |
 
-|             |             |
-|-------------|-------------|
-| 	Left column |             |
-|             |             |
-|             |             |
-
-|           |             |
-|-----------|-------------|
-| 	:::       |             |
-|           |             |
-|           |             |
-
-|                           |             |
-|---------------------------|-------------|
-| 	::: {.column width="50%"} |             |
-|                           |             |
-|                           |             |
-
-|              |             |
-|--------------|-------------|
-| 	Right column |             |
-|              |             |
-|              |             |
-
-|           |             |
-|-----------|-------------|
-| 	:::       |             |
-|           |             |
-|           |             |
-
-	::::
