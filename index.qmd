@@ -1,5 +1,5 @@
 ---
-title: "Jhonny Capichoni Massante"
+title: "Jhonny C. Massante"
 image: profile2.jpg
 about: 
   template: trestles
