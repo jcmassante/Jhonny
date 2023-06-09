@@ -26,7 +26,7 @@ website:
     
 format:
   html:
-    theme: green_theme.scss
+    theme: css_theme.scss
     css: styles.css
     toc: true
     toc-depth: 6

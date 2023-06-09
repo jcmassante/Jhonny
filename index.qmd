@@ -23,7 +23,7 @@ about:
       href: mailto:jhonny.massante@ut.ee
 ---
 
-#### Hi, I'm Jhonny. I am Aurora's dad, Katy's husband, and an ecologist currently working as a post-doctoral researcher in macroecology. 
+#### Hi, I'm Jhonny. I am Aurora's dad, Katy's husband, and an ecologist currently working as a post-doctoral researcher in macroecology.
 
 I am a curious person. We are all born curious. I realised my innate sense of **Curiosity** serves as an asset throughout my professional journey. It has guided me through different career paths and seemingly unrelated projects.
 
@@ -33,8 +33,7 @@ When I am not at work, I like to stay with my family, travelling, hiking, and re
 
 Since July 2022, I have been dedicated to developing a project centred around rare species and their contribution to ecological communities. For more details, have a look at *About*.
 
-
-##### My academic interests in a word cloud 
+##### My academic interests in a word cloud
 
 ```{r, echo = FALSE, warning = FALSE, message = FALSE}
 
@@ -118,7 +117,8 @@ p
 
 ```
 
-<p style= "font-size: small" > Word cloud made with the abstracts of scientific papers I have published, either as a first author or as a collaborator. </p>
+<p style="font-size: small">
 
+Word cloud made with the abstracts of scientific papers I have published, either as a first author or as a collaborator.
 
-
+</p>
