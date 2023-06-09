@@ -5,6 +5,9 @@ project:
 website:
   favicon: logo2.png
   title: "Jhonny"
+  google-analytics: 
+    tracking-id: "UA-146153445-1"
+    anonymize-ip: true
   navbar:
     title: false
     logo:  logo2.png
