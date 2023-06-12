@@ -34,5 +34,8 @@ format:
     toc: true
     toc-depth: 6
     page-layout: full
+    
+execute:
+  freeze: auto
 
 editor: visual
