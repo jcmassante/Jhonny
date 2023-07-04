@@ -25,6 +25,8 @@ about:
 
 #### Hi, I'm Jhonny. I am Aurora's dad, Katy's husband, and an ecologist currently working as a post-doctoral researcher in macroecology.
 
+<br>
+
 I am a curious person. We are all born curious. I realised my innate sense of **Curiosity** serves as an asset throughout my professional journey. It has guided me through different career paths and seemingly unrelated projects.
 
 I've discovered that **Biodiversity** is the crucial link connecting my **Curiosity** to my academic interests. This connection becomes evident in the word cloud below. It showcases my academic contributions and the significance of **Biodiversity** in my research endeavours.
@@ -55,7 +57,7 @@ library("elementalist")
 library("ggsci")
 
 # Read the text file from internet
-filePath <- "C:/Users/Jhonny/Nextcloud/USP/Jhonny/cloud.txt"
+filePath <- "C:/Users/jcmas/Nextcloud/USP/jcmassante.github.io/cloud.txt"
 text <- readLines(filePath)
 
 # http://www.sthda.com/english/wiki/text-mining-and-word-cloud-fundamentals-in-r-5-simple-steps-you-should-know
