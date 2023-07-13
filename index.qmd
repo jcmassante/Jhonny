@@ -1,6 +1,6 @@
 ---
 title: "Jhonny C. Massante"
-image: profile2.jpg
+image: newprofile.jpg
 about: 
   template: trestles
   image-shape: round
@@ -57,7 +57,7 @@ library("elementalist")
 library("ggsci")
 
 # Read the text file from internet
-filePath <- "C:/Users/jcmas/Nextcloud/USP/jcmassante.github.io/cloud.txt"
+filePath <- "C:/Users/Jhonny/Nextcloud/USP/jcmassante.github.io/cloud.txt"
 text <- readLines(filePath)
 
 # http://www.sthda.com/english/wiki/text-mining-and-word-cloud-fundamentals-in-r-5-simple-steps-you-should-know
